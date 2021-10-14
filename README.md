@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  Aqui eu posto algumas coisas que fiz 
+- 😀 Aqui eu posto algumas coisas que fiz 
 - 🌱 Gosto de programação e afins
 - 🎸 Baixista e guitarrista nas horas vagas 
 - 💠 <i>tryhard de Cubo Mágico</i>
