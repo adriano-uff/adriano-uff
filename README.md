@@ -57,8 +57,10 @@ Here are some ideas to get you started:
   <img align="center" alt="pgadmin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
   
+<!--  
 <div style="display: inline_block">
   <hr>
   <h3> Packet Sniffers </h3> 
   <img align="center" alt="wireshark" height="30" width="30" src="https://www.logolynx.com/images/logolynx/ad/ad0ec0151d8ea8113c0bcfaaa05aa832.jpeg" />
 </div> 
+-->
